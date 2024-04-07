@@ -1,0 +1,91 @@
+* {
+    padding: 0 0;
+}
+
+* {
+    margin: 0 0;
+}
+
+h2 {
+    margin-bottom: 8px;
+    padding-left: 4px;
+}
+
+p {
+    margin-bottom: 8px;
+    padding-left: 4px;
+    width: 200px;
+}
+
+span {
+    margin-bottom: 8px;
+    padding: 4px;
+}
+
+.Products {
+    margin-left: 21%;
+    margin-right: 21%;
+    width: fit-content;
+}
+
+.product {
+    border: rgb(218, 214, 214) solid 2px;
+    margin: 2px;
+    width: fit-content;
+}
+
+.num1 {
+    color: green;
+    font-size: 15px;
+}
+
+.num2 {
+    color: red;
+    font-size: 12px;
+}
+
+div {
+    float: left;
+}
+
+
+.prod {
+    border: rgb(218, 214, 214) solid 2px;
+    margin: 2px;
+    width: fit-content;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    padding: 4px 4px;
+}
+
+svg {
+    width: 18px;
+    height: 15px;
+    display: inline;
+
+}
+
+button.lockk {
+    width: 150px;
+    height: 30px;
+    background-color: rgb(0, 98, 255);
+     margin-bottom: 4px;
+}
+
+button.heartt {
+    width: 50px;
+    height: 30px;
+    background-color: white;
+   margin-bottom: 4px;
+}
+
+.clearFix {
+    clear: both;
+}
+
+.Add {
+    display: inline-block;
+}
